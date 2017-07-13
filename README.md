@@ -1,5 +1,5 @@
 # thirdTest
-Creating branch is quick also easy
+reating branch is quick also easy
 merge by fase forward
 merge by no fast
 github
