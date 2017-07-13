@@ -1,2 +1,2 @@
 # thirdTest
-Creating branch is quick
+Creating branch is quick also easy
